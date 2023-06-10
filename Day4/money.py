@@ -59,7 +59,7 @@ class Money:
 
 money1 = Money(4, 155)
 money2 = Money(17, 1200)
-mod_money = manya1 % 21
+mod_money = money1 % 21
 print(money1)
 print(mod_money)
 
